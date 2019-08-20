@@ -1,0 +1,4 @@
+containers/mysql/**/*
+containers/wordpress/**/*
+!containers/mysql/.gitkeep
+!containers/wordpress/.gitkeep
